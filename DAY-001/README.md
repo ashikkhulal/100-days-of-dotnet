@@ -1,4 +1,4 @@
-## DAY-1:
+## DAY-001:
 
 A sample program:
 
