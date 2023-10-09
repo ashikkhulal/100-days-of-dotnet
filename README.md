@@ -5,6 +5,12 @@
 2. Namespace
 3. Purpose of main method
 
+### [DAY-002](./DAY-002):
+1. Reading from the console
+2. Writing to the console
+3. String concatenation
+4. Place holder syntax
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
