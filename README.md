@@ -17,3 +17,10 @@
 3. Overloading class constructor
 4. Understanding this keyword
 5. Destructors
+
+### [DAY-020](./DAY-020):
+1. Static class member
+2. Instance class members
+3. Static vs instance members
+4. When to make certain member static
+
