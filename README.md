@@ -30,3 +30,9 @@
 3. Static vs instance members
 4. When to make certain member static
 
+### [DAY-021](./DAY-021):
+1. Why inheritance
+2. Advantages of inheritance
+3. Inheritance syntax
+4. Inheritance concepts
+
