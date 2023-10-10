@@ -2,7 +2,7 @@
 
 public class Program
 {
-    public static void Main(string[] args)
+    static void Main()
     {
         FullTimeEmployee FTE1 = new FullTimeEmployee();
         FTE1.FirstName = "Sid";
