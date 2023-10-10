@@ -7,7 +7,7 @@ namespace ProjectA
 {
     class Program
     {
-        static void Main(string[] args) 
+        static void Main() 
         {
             TeamA.ClassA.Print();
             ProjectA.TeamB.ClassA.Print();
