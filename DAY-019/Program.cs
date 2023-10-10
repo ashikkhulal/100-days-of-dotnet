@@ -34,7 +34,7 @@ class Car
 
 class Program
 {
-    public static void Main(string[] args)
+    static void Main()
     {
         Car carOne = new Car("Toyota", "Rav4", "2022");
         carOne.PrintCarDetails();
