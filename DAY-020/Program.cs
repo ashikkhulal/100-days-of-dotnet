@@ -2,7 +2,7 @@
 
 class Program
 {
-    public static void Main(string[] args)
+    static void Main()
     {
         // Calling instance member
         Rectange rectange1 = new Rectange(10.5, 5.5);
