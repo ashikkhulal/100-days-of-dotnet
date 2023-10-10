@@ -11,6 +11,12 @@
 3. String concatenation
 4. Place holder syntax
 
+### [DAY-003](./DAY-003):
+1. Boolean types -- true or false
+2. Integral types -- sbyte, byte, short, ushort, int, uint, long, ulong, char
+3. Floating types -- float and double
+4. Decimal type
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive

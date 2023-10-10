@@ -14,6 +14,9 @@ An instance member belongs to specific instance (object) of a class. If I create
 ## Static constructors:
 
 Static constructors are used to initialize static fields in a class.
+
 You declare a static consturctor by using the keyword static in front of the constructor name.
+
 Static constructor is called only once, no matter how many instances you create.
+
 Static constructors are called before instance constructors.
