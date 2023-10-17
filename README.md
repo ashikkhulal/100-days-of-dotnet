@@ -28,7 +28,10 @@
 3. Comparision operators
 4. Conditional operators
 5. Ternary operator
-6. Null coalescing operator
+
+### [DAY-006](./DAY-006):
+1. Nullable types in C#
+2. Null coalescing operator
 
 ### [DAY-018](./DAY-018):
 1. Namespace basics
