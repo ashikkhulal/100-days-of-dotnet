@@ -17,6 +17,11 @@
 3. Floating types -- float and double
 4. Decimal type
 
+### [DAY-004](./DAY-004):
+1. Built-in string types
+2. Escape sequences
+3. Verbatim Literal
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
