@@ -42,3 +42,7 @@
 3. Inheritance syntax
 4. Inheritance concepts
 
+### [DAY-022](./DAY-022):
+1. Method hiding
+2. Invoking hidden base class members
+
