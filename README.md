@@ -22,6 +22,14 @@
 2. Escape sequences
 3. Verbatim Literal
 
+### [DAY-005](./DAY-005):
+1. Assignment operator
+2. Arithmetic operators
+3. Comparision operators
+4. Conditional operators
+5. Ternary operator
+6. Null coalescing operator
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
