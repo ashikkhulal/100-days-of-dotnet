@@ -33,6 +33,11 @@
 1. Nullable types in C#
 2. Null coalescing operator
 
+### [DAY-007](./DAY-007):
+1. Implicit conversions
+2. Explicit conversions
+3. Difference between Parse() and TryParse()
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
