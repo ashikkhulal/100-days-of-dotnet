@@ -62,3 +62,7 @@
 1. Method hiding
 2. Invoking hidden base class members
 
+### [DAY-023](./DAY-023):
+1. Overriding virtual methods
+2. Polymorphism
+
