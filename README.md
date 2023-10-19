@@ -38,6 +38,10 @@
 2. Explicit conversions
 3. Difference between Parse() and TryParse()
 
+### [DAY-008](./DAY-008):
+1. Arrays in C#
+2. Advantages and disadvantages of arrays
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
