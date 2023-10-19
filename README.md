@@ -42,6 +42,11 @@
 1. Arrays in C#
 2. Advantages and disadvantages of arrays
 
+### [DAY-009](./DAY-009):
+1. Single line comment
+2. Multi-line comment
+3. Intro to XML documentation's comment
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
