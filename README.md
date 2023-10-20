@@ -83,4 +83,7 @@
 ### [DAY-024](./DAY-024):
 1. Difference between method overriding and method hiding
 
+### [DAY-025](./DAY-025):
+1. Method overloading in C#
+
 
