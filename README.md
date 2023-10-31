@@ -91,4 +91,7 @@
 ### [DAY-025](./DAY-025):
 1. Method overloading in C#
 
+### [DAY-026](./DAY-026):
+1. Properties
+
 
