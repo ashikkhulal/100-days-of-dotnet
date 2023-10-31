@@ -47,6 +47,11 @@
 2. Multi-line comment
 3. Intro to XML documentation's comment
 
+### [DAY-010](./DAY-010):
+1. if, else if, else statement
+2. Difference between && and &
+3. Difference between || and |
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
