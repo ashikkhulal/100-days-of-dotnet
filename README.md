@@ -55,7 +55,10 @@
 ### [DAY-011](./DAY-011):
 1. Switch statement
 2. Break statement
-3. Goto statement
+
+### [DAY-012](./DAY-012):
+1. Switch statement continued
+2. Goto statement
 
 ### [DAY-018](./DAY-018):
 1. Namespace basics
