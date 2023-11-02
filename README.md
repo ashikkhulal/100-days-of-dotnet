@@ -52,6 +52,11 @@
 2. Difference between && and &
 3. Difference between || and |
 
+### [DAY-011](./DAY-011):
+1. Switch statement
+2. Break statement
+3. Goto statement
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
