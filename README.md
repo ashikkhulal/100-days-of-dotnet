@@ -99,4 +99,10 @@
 ### [DAY-026](./DAY-026):
 1. Properties
 
+### [DAY-027](./DAY-027):
+1. Read/write properties
+2. Read only properties
+3. Write only properties
+4. Auto implemented properties
+
 
