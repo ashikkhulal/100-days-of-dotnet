@@ -60,6 +60,13 @@
 1. Switch statement continued
 2. Goto statement
 
+### [DAY-013](./DAY-013):
+1. 
+
+### [DAY-014](./DAY-014):
+1. Do while loop
+2. Difference between while and do while loop
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
