@@ -108,4 +108,6 @@
 3. Write only properties
 4. Auto implemented properties
 
+### [DAY-028](./DAY-028):
+1. Structs in C#
 
