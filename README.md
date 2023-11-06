@@ -74,6 +74,9 @@
 4. Difference between for and foreach loop
 5. Use of break and continue statement
 
+### [DAY-016](./DAY-016):
+1. For loop
+
 ### [DAY-018](./DAY-018):
 1. Namespace basics
 2. Using alias directive
