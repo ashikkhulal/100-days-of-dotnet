@@ -125,3 +125,7 @@
 ### [DAY-028](./DAY-028):
 1. Structs in C#
 
+### [DAY-029](./DAY-029):
+1. Difference between classes and structs
+2. Value types and reference types
+3. Stack and heap
