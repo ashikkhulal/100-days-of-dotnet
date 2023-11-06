@@ -75,7 +75,15 @@
 5. Use of break and continue statement
 
 ### [DAY-016](./DAY-016):
-1. For loop
+1. Methods in C#
+2. Difference between static and instance methods
+
+### [DAY-017](./DAY-017):
+1. Methods parameters
+2. Value parameters
+3. Reference parameters
+4. Out parameters
+5. Parameter arrays
 
 ### [DAY-018](./DAY-018):
 1. Namespace basics
