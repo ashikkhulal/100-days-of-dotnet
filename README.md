@@ -143,3 +143,7 @@
 
 ### [DAY-030](./DAY-030):
 1. Interfaces in C#
+
+### [DAY-031](./DAY-031):
+1. Explicit interface implementation
+2. Default implementation
