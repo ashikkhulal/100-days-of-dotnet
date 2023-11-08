@@ -147,3 +147,7 @@
 ### [DAY-031](./DAY-031):
 1. Explicit interface implementation
 2. Default implementation
+
+### [DAY-032](./DAY-032):
+1. Abstract classes in C#
+
