@@ -157,3 +157,6 @@
 ### [DAY-034](./DAY-034):
 1. Problems of multiple class inheritance
 
+### [DAY-035](./DAY-035):
+1. Multiple class inheritance using interfaces
+
