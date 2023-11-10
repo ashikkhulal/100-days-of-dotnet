@@ -154,3 +154,6 @@
 ### [DAY-033](./DAY-033):
 1. Differences between abstract classes and interfaces
 
+### [DAY-034](./DAY-034):
+1. Problems of multiple class inheritance
+
