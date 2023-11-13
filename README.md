@@ -160,3 +160,8 @@
 ### [DAY-035](./DAY-035):
 1. Multiple class inheritance using interfaces
 
+### [DAY-036](./DAY-036):
+1. Basics of delegates
+
+
+
