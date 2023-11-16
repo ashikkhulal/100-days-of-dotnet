@@ -173,3 +173,7 @@
 1. Multicast delegates
 2. Different ways to create a multicast delegate
 3. What happens if a multicast delegate returns a value
+
+### [DAY-040](./DAY-040):
+1. Exception handling in C#
+
