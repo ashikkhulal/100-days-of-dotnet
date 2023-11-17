@@ -177,5 +177,10 @@
 ### [DAY-040](./DAY-040):
 1. Exception handling in C#
 
-### [DAY-041](./DAY-040):
+### [DAY-041](./DAY-041):
 1. Inner exception handling in C#
+
+### [DAY-042](./DAY-042):
+1. When to create custom exceptions
+2. Creating a custom exception in C# from scratch
+3. Throwing and catching custom exception
