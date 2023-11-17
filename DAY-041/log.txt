@@ -1,0 +1,1 @@
+Friday, 17 November 2023 14:25:19 - ERROR TYPE: DivideByZeroException, ERROR: attempted to divide by zero.
