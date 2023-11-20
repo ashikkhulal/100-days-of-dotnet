@@ -190,3 +190,6 @@
 
 ### [DAY-044](./DAY-044):
 1. Exceptions handling abuse solved
+
+### [DAY-045](./DAY-045):
+1. Why enums
