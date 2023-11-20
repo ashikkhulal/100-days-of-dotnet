@@ -184,3 +184,6 @@
 1. When to create custom exceptions
 2. Creating a custom exception in C# from scratch
 3. Throwing and catching custom exception
+
+### [DAY-043](./DAY-043):
+1. Exceptions handling abuse
