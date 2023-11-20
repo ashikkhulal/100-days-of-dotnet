@@ -193,3 +193,7 @@
 
 ### [DAY-045](./DAY-045):
 1. Why enums
+
+### [DAY-046](./DAY-046):
+1. Enums example
+2. Advantages of using enums
