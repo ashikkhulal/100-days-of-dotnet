@@ -187,3 +187,6 @@
 
 ### [DAY-043](./DAY-043):
 1. Exceptions handling abuse
+
+### [DAY-044](./DAY-044):
+1. Exceptions handling abuse solved
