@@ -200,3 +200,6 @@
 
 ### [DAY-047](./DAY-047):
 1. Enum concepts
+
+### [DAY-048](./DAY-048):
+1. Difference between types and type members
