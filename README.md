@@ -203,3 +203,7 @@
 
 ### [DAY-048](./DAY-048):
 1. Difference between types and type members
+
+### [DAY-049](./DAY-049):
+1. Access modifiers
+2. Private, public and protected
