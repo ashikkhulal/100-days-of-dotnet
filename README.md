@@ -207,3 +207,6 @@
 ### [DAY-049](./DAY-049):
 1. Access modifiers
 2. Private, public and protected
+
+### [DAY-050](./DAY-050):
+1. Internal and protected internal access modifiers
