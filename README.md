@@ -211,5 +211,11 @@
 ### [DAY-050](./DAY-050):
 1. Internal and protected internal access modifiers
 
-### [DAY-050](./DAY-050):
+### [DAY-051](./DAY-051):
 1. Access modifiers for types
+
+### [DAY-052](./DAY-052):
+1. The purpose of attributes
+2. Using an attribute
+3. Customizing attributes using parameters
+
