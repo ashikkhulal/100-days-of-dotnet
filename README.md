@@ -210,3 +210,6 @@
 
 ### [DAY-050](./DAY-050):
 1. Internal and protected internal access modifiers
+
+### [DAY-050](./DAY-050):
+1. Access modifiers for types
