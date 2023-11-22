@@ -219,3 +219,7 @@
 2. Using an attribute
 3. Customizing attributes using parameters
 
+### [DAY-053](./DAY-053):
+1. The basics of reflection
+2. Understanding the uses of reflections
+
