@@ -229,3 +229,6 @@
 ### [DAY-055](./DAY-055):
 1. Early binding vs late binding
 2. Late binding using reflection
+
+### [DAY-056](./DAY-056):
+1. Generics in C#
