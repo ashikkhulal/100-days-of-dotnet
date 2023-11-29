@@ -235,3 +235,9 @@
 
 ### [DAY-057](./DAY-057):
 1. Why should you override ToString() method
+
+### [DAY-058](./DAY-058):
+1. What is Equals() method
+2. Why should you override Equals() method
+3. Overriding GetHashCode() method
+
