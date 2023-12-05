@@ -246,3 +246,9 @@
 
 ### [DAY-060](./DAY-060):
 1. String() vs StringBuilder()
+
+### [DAY-061](./DAY-061):
+1. Partial classes in C#
+2. Advantages of using partial classes
+3. Where partial classes are used
+
