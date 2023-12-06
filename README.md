@@ -262,3 +262,6 @@
 ### [DAY-064](./DAY-064):
 1. Where are indexers used in .NET framework
 2. What are indexers
+
+### [DAY-065](./DAY-065):
+1. Creating indexers in C#
