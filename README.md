@@ -252,3 +252,9 @@
 2. Advantages of using partial classes
 3. Where partial classes are used
 
+### [DAY-062](./DAY-062):
+1. Rules to follow when creating partial classes
+
+### [DAY-063](./DAY-063):
+1. What are partial methods in C#
+2. Rules to follow when creating partial methods
