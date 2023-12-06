@@ -258,3 +258,7 @@
 ### [DAY-063](./DAY-063):
 1. What are partial methods in C#
 2. Rules to follow when creating partial methods
+
+### [DAY-064](./DAY-064):
+1. Where are indexers used in .NET framework
+2. What are indexers
