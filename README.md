@@ -265,3 +265,6 @@
 
 ### [DAY-065](./DAY-065):
 1. Creating indexers in C#
+
+### [DAY-066](./DAY-066):
+1. Overloading indexers
