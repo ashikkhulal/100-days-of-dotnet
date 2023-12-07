@@ -296,6 +296,9 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-068](./DAY-068):
 1. Making method parameters optional using method overloading
 
+#### [DAY-069](./DAY-069):
+1. Making method parameters optional by specifying parameter defaults
+
 
 
 
