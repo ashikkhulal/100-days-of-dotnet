@@ -302,6 +302,9 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-070](./DAY-070):
 1. Making method parameters optional by using OptionalAttribute
 
+#### [DAY-071](./DAY-071):
+1. Code snippets in VS
+
 
 
 
