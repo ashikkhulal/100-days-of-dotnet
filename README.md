@@ -305,7 +305,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-071](./DAY-071):
 1. Code snippets in VS
 
-
+#### [DAY-072](./DAY-072):
+1. Dictionary in C#
 
 
 
