@@ -311,6 +311,10 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-073](./DAY-073):
 1. Dictionary in C# (continued)
 
+#### [DAY-074](./DAY-074):
+1. List collection class in C#
+
+
 
 ___
 Happy learning! 🚀
