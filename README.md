@@ -309,12 +309,20 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 1. Dictionary in C#
 
 #### [DAY-073](./DAY-073):
-1. Dictionary in C# (continued)
+1. Useful functions in Dictionary collection class
+2. Using LINQ extension methods with dictionary
+3. Converting List and Arrays to dictionary
 
 #### [DAY-074](./DAY-074):
 1. List collection class in C#
+2. Adding to the list
+3. Inserting to the list
 
-
+#### [DAY-075](./DAY-075):
+1. Useful function in List collection class
+2. Converting an array to a list
+3. Converting a list to an array
+4. Converting a list to a dictionary
 
 ___
 Happy learning! 🚀

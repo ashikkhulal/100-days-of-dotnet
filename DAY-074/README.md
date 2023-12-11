@@ -17,3 +17,21 @@ The objects stored in the list can be accessed by index.
 Unlike arrays, list can grow in size automatically.
 
 This class also provides methods to search, sort, and manipulate lists.
+
+## Adding to the list:
+
+Use `Add()` function.
+
+```
+List<Customer> listCustomer = new List<Customer>(2);
+listCustomer.Add(customer1);
+```
+
+## Inserting to the list:
+
+Use `Insert()` function.
+
+```
+List<Customer> listCustomer = new List<Customer>(2);
+listCustomer.Insert(0, customer2);
+```
