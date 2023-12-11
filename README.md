@@ -308,6 +308,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-072](./DAY-072):
 1. Dictionary in C#
 
+#### [DAY-073](./DAY-073):
+1. Dictionary in C# (continued)
 
 
 ___
