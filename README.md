@@ -329,5 +329,9 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 
 #### [DAY-077](./DAY-077):
 1. Sorting a list of simple types
+
+#### [DAY-078](./DAY-078):
+1. Sorting a list of complex types using IComparable
+2. Sorting a list of complex types using IComparer
 ___
 Happy learning! 🚀
