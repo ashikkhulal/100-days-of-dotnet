@@ -337,6 +337,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-079](./DAY-079):
 1. Sorting a list of complex types using Comparison delegate
 
+#### [DAY-080](./DAY-080):
+1. Other useful function in List collection class
 
 ___
 Happy learning! 🚀
