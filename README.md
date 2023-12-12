@@ -324,5 +324,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 3. Converting a list to an array
 4. Converting a list to a dictionary
 
+#### [DAY-076](./DAY-076):
+1. Generic list class and ranges
+
 ___
 Happy learning! 🚀
