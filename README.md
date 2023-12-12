@@ -327,5 +327,7 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-076](./DAY-076):
 1. Generic list class and ranges
 
+#### [DAY-077](./DAY-077):
+1. Sorting a list of simple types
 ___
 Happy learning! 🚀
