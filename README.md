@@ -343,5 +343,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-081](./DAY-081):
 1. Dictionary vs List
 
+#### [DAY-082](./DAY-082):
+1. Generic Queue collection class
+
 ___
 Happy learning! 🚀
