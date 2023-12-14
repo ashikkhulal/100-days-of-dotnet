@@ -351,5 +351,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 1. Generic Stack collection class
 2. Useful functions in Stack collection class
 
+#### [DAY-084](./DAY-084):
+1. Real time example of Queue collection class
+
 ___
 Happy learning! 🚀
