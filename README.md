@@ -354,5 +354,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-084](./DAY-084):
 1. Real time example of Queue collection class
 
+#### [DAY-085](./DAY-085):
+1. Real time example of Stack collection class
+
 ___
 Happy learning! 🚀

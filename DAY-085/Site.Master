@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebFormApp.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table style="border:1px solid black; width:900px; font-family:Arial">
+            <tr>
+                <td>
+                    <asp:Button ID="BtnBack" runat="server" Text="Back" Width="300px" Font-Size="Large" OnClick="BtnBack_Click" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <asp:Label ID="LblMessage" runat="server" ForeColor="Red"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td style="width:300px">
+                    <table>
+                        <tr>
+                            <td>
+                                <b style="text-align:center">Top 10 songs list: </b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm1.aspx">Chookar Mere Mann Ko</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm2.aspx">Mere Samne Wali Khidki Mein</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm3.aspx">Masakali</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm4.aspx">Basanta</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm5.aspx">Tujh Mein Rab Dikhta Hai</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm6.aspx">Komal Tyo Timro</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm7.aspx">Lonely</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm8.aspx">Breathless</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm9.aspx">Jadai Chu Tadha</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://localhost:44306/WebForm10.aspx">Pasoori</a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+        
+    </form>
+</body>
+</html>
