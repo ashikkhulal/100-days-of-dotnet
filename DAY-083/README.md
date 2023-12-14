@@ -6,7 +6,7 @@ Stack is a generic LIFO (Last In First Out) collection class that is present in 
 
 The stack collection class is analogous to a stack of plates. If you want to add a new plate to the stack of plates, you place it on top of all the already existing plates. If you want to remove a plate from the stack, you will first remove the one that you have last added.
 
-The Stack collection class operates in a similar fashion. The last item to be added(pushed) to the queue, will be the first item to be removed(popped) from the queue.
+The Stack collection class operates in a similar fashion. The last item to be added(pushed) to the stack, will be the first item to be removed(popped) from the stack.
 
 ## Useful functions in Stack collection class:
 
