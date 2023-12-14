@@ -347,5 +347,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 1. Generic Queue collection class
 2. Useful functions in Queue collection class
 
+#### [DAY-083](./DAY-083):
+1. Generic Queue collection class
+
 ___
 Happy learning! 🚀
