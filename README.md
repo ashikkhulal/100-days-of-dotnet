@@ -340,5 +340,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-080](./DAY-080):
 1. Other useful function in List collection class
 
+#### [DAY-081](./DAY-081):
+1. Dictionary vs List
+
 ___
 Happy learning! 🚀
