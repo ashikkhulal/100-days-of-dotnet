@@ -384,5 +384,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-093](./DAY-093):
 1. Protecting shared resources
 
+#### [DAY-094](./DAY-094):
+1. Monitor vs Lock
+
 ___
 Happy learning! 🚀
