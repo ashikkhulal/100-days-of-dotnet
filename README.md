@@ -371,5 +371,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-089](./DAY-080):
 1. Parameterized ThreadStart Delegate
 
+#### [DAY-089](./DAY-080):
+1. Passing data to the Thread function in a type safe manner
+
 ___
 Happy learning! 🚀
