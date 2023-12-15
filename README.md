@@ -377,5 +377,9 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-091](./DAY-091):
 1. Retrieving data from Thread function using callback method
 
+#### [DAY-092](./DAY-092):
+1. Thread.Join
+2. Thread.IsAlive
+
 ___
 Happy learning! 🚀
