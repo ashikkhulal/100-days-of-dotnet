@@ -387,5 +387,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-094](./DAY-094):
 1. Monitor vs Lock
 
+#### [DAY-095](./DAY-095):
+1. Deadlock in a multithreaded program
+
 ___
 Happy learning! 🚀
