@@ -357,5 +357,11 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-085](./DAY-085):
 1. Real time example of Stack collection class
 
+#### [DAY-086](./DAY-086):
+1. What is a process 
+2. What is a thread
+3. Multithreading and its example
+
+
 ___
 Happy learning! 🚀
