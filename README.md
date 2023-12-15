@@ -368,11 +368,14 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-088](./DAY-088):
 1. Purpose of ThreadStart Delegate
 
-#### [DAY-089](./DAY-080):
+#### [DAY-089](./DAY-089):
 1. Parameterized ThreadStart Delegate
 
-#### [DAY-089](./DAY-080):
+#### [DAY-090](./DAY-090):
 1. Passing data to the Thread function in a type safe manner
+
+#### [DAY-091](./DAY-091):
+1. Retrieving data from Thread function using callback method
 
 ___
 Happy learning! 🚀
