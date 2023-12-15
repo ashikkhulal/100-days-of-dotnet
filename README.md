@@ -381,5 +381,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 1. Thread.Join
 2. Thread.IsAlive
 
+#### [DAY-093](./DAY-093):
+1. Protecting shared resources
+
 ___
 Happy learning! 🚀
