@@ -362,6 +362,9 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 2. What is a thread
 3. Multithreading and its example
 
+#### [DAY-086](./DAY-086):
+1. Advantages and disadvantages of multithreading
+
 
 ___
 Happy learning! 🚀
