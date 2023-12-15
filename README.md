@@ -365,9 +365,11 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-087](./DAY-087):
 1. Advantages and disadvantages of multithreading
 
-#### [DAY-087](./DAY-087):
+#### [DAY-088](./DAY-088):
 1. Purpose of ThreadStart Delegate
 
+#### [DAY-089](./DAY-080):
+1. Parameterized ThreadStart Delegate
 
 ___
 Happy learning! 🚀
