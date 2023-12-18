@@ -393,5 +393,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-096](./DAY-096):
 1. Resolving deadlock in a multithreaded program
 
+#### [DAY-097](./DAY-097):
+1. Performance implications of a multithreaded program
+
 ___
 Happy learning! 🚀
