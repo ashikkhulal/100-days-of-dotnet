@@ -396,8 +396,12 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-097](./DAY-097):
 1. Performance implications of a multithreaded program
 
-#### [DAY-097](./DAY-097):
+#### [DAY-098](./DAY-098):
 1. Anonymous methods in C#
+
+#### [DAY-099](./DAY-099):
+1. Lambda expressions in C#
+2. Lambda expression vs anonymous methods
 
 ___
 Happy learning! 🚀
