@@ -390,5 +390,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-095](./DAY-095):
 1. Deadlock in a multithreaded program
 
+#### [DAY-096](./DAY-096):
+1. Resolving deadlock in a multithreaded program
+
 ___
 Happy learning! 🚀
