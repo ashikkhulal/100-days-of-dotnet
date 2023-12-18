@@ -396,5 +396,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-097](./DAY-097):
 1. Performance implications of a multithreaded program
 
+#### [DAY-097](./DAY-097):
+1. Anonymous methods in C#
+
 ___
 Happy learning! 🚀
