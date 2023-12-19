@@ -410,5 +410,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 #### [DAY-101](./DAY-101):
 1. Async and await in C#
 
+#### [DAY-102](./DAY-102):
+1. Wait for thread to finish without UI blocking
+
 ___
 Happy learning! 🚀
