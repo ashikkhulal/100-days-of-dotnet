@@ -403,5 +403,11 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 1. Lambda expressions in C#
 2. Lambda expression vs anonymous methods
 
+#### [DAY-100](./DAY-100):
+1. Func delegate in C#
+2. Difference between Func delegate and Lambda expression
+
+
+
 ___
 Happy learning! 🚀
