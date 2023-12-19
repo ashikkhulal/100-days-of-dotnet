@@ -407,7 +407,8 @@ The challenge is structured into daily directories, starting from Day 001 to Day
 1. Func delegate in C#
 2. Difference between Func delegate and Lambda expression
 
-
+#### [DAY-101](./DAY-101):
+1. Async and await in C#
 
 ___
 Happy learning! 🚀
